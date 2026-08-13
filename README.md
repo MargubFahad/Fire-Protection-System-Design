@@ -1,5 +1,4 @@
 # Fire-Protection-System-Design
-# Fire Protection System Design – Khan Jahan Ali Hall, KUET
 
 ## Overview
 
